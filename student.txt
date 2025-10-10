@@ -1,0 +1,303 @@
+Student Id = 1504456
+Name = Dylan Edwards
+course = CS
+Phone Number = 432-7890
+
+Student Id = 1504456
+Name = Dylan Eddings
+course = CS
+Phone Number = 432-7890
+
+Student Id = 1504456
+Name = Dylan Wardings
+course = CS
+Phone Number = 432-7890
+
+Student Id = 1200789
+Name = Michael Brown
+course = CN
+Phone Number = 432-5678
+
+Student Id = 1316456
+Name = Jacob King
+course = IB
+Phone Number = 432-8901
+
+Student Id = 1403789
+Name = Zoey Baker
+course = CT
+Phone Number = 790-8901
+
+Student Id = 1307456
+Name = Amelia Clark
+course = IB
+Phone Number = 790-0123
+
+Student Id = 1201123
+Name = Sarah Williams
+course = IB
+Phone Number = 790-2345
+
+Student Id = 1510456
+Name = Isaac Cook
+course = CN
+Phone Number = 432-0123
+
+Student Id = 1309123
+Name = Abigail Lewis
+course = CS
+Phone Number = 790-1234
+
+Student Id = 1407123
+Name = Audrey Perez
+course = IB
+Phone Number = 790-0123
+
+Student Id = 1517789
+Name = Violet Richardson
+course = IB
+Phone Number = 790-0123
+
+Student Id = 1312123
+Name = James Hall
+course = IA
+Phone Number = 432-6789
+
+Student Id = 1506123
+Name = Gabriel Stewart
+course = IB
+Phone Number = 432-8901
+
+Student Id = 1409789
+Name = Scarlett Turner
+course = CS
+Phone Number = 790-1234
+
+Student Id = 1202456
+Name = David Miller
+course = IA
+Phone Number = 432-6789
+
+Student Id = 1314789
+Name = Logan Allen
+course = CS
+Phone Number = 432-7890
+
+Student Id = 1303123
+Name = Mia Thompson
+course = CT
+Phone Number = 790-8901
+
+Student Id = 1509123
+Name = Savannah Reed
+course = CS
+Phone Number = 790-6789
+
+Student Id = 1401123
+Name = Chloe Green
+course = IB
+Phone Number = 790-7890
+
+Student Id = 1203789
+Name = Jessica Davis
+course = CT
+Phone Number = 790-3456
+
+Student Id = 1318123
+Name = Ryan Lopez
+course = CT
+Phone Number = 432-9012
+
+Student Id = 1515123
+Name = Hazel Rivera
+course = CN
+Phone Number = 790-9012
+
+Student Id = 1305789
+Name = Charlotte Martinez
+course = CN
+Phone Number = 790-9012
+
+Student Id = 1408456
+Name = Luke Roberts
+course = CT
+Phone Number = 432-4567
+
+Student Id = 1204123
+Name = Daniel Wilson
+course = CS
+Phone Number = 432-7890
+
+Student Id = 1313456
+Name = Evelyn Young
+course = CT
+Phone Number = 790-3456
+
+Student Id = 1500789
+Name = Nora Collins
+course = CN
+Phone Number = 790-4567
+
+Student Id = 1300123
+Name = Andrew White
+course = CN
+Phone Number = 432-0123
+
+Student Id = 1512123
+Name = Wyatt Bell
+course = IA
+Phone Number = 432-1234
+
+Student Id = 1402456
+Name = Caleb Adams
+course = IA
+Phone Number = 432-1234
+
+Student Id = 1311789
+Name = Harper Walker
+course = IB
+Phone Number = 790-2345
+
+Student Id = 1205456
+Name = Olivia Taylor
+course = CN
+Phone Number = 790-4567
+
+Student Id = 1507456
+Name = Leah Sanchez
+course = IA
+Phone Number = 790-5678
+
+Student Id = 1308789
+Name = Benjamin Rodriguez
+course = CT
+Phone Number = 432-4567
+
+Student Id = 1404123
+Name = Samuel Nelson
+course = CS
+Phone Number = 432-2345
+
+Student Id = 1514789
+Name = Christian Bailey
+course = CS
+Phone Number = 432-2345
+
+Student Id = 1206789
+Name = Matthew Anderson
+course = IB
+Phone Number = 432-8901
+
+Student Id = 1315123
+Name = Elizabeth Hernandez
+course = CN
+Phone Number = 790-4567
+
+Student Id = 1503123
+Name = Zoe Evans
+course = CT
+Phone Number = 790-3456
+
+Student Id = 1304456
+Name = Ethan Garcia
+course = CS
+Phone Number = 432-2345
+
+Student Id = 1406789
+Name = Owen Mitchell
+course = IB
+Phone Number = 432-3456
+
+Student Id = 1516456
+Name = Theodore Cooper
+course = IB
+Phone Number = 432-3456
+
+Student Id = 1200456
+Name = Emily Johnson
+course = CS
+Phone Number = 790-1234
+
+Student Id = 1319456
+Name = Grace Hill
+course = CS
+Phone Number = 790-6789
+
+Student Id = 1502789
+Name = Jack Parker
+course = IA
+Phone Number = 432-6789
+
+Student Id = 1301456
+Name = Isabella Harris
+course = IB
+Phone Number = 790-7890
+
+Student Id = 1405789
+Name = Lily Carter
+course = CN
+Phone Number = 790-9012
+
+Student Id = 1513789
+Name = Ariana Morgan
+course = IB
+Phone Number = 790-7890
+
+Student Id = 1207123
+Name = Ava Martinez
+course = IA
+Phone Number = 790-5678
+
+Student Id = 1310456
+Name = William Lee
+course = CN
+Phone Number = 432-5678
+
+Student Id = 1508789
+Name = Julian Morris
+course = CT
+Phone Number = 432-9012
+
+Student Id = 1302789
+Name = Joshua Martin
+course = IA
+Phone Number = 432-1234
+
+Student Id = 1409123
+Name = Chloe Green
+course = IB
+Phone Number = 790-7890
+
+Student Id = 1518123
+Name = Charles Cox
+course = CT
+Phone Number = 432-4567
+
+Student Id = 1208456
+Name = Christopher Thomas
+course = CT
+Phone Number = 432-9012
+
+Student Id = 1317789
+Name = Victoria Wright
+course = CS
+Phone Number = 790-5678
+
+Student Id = 1501123
+Name = Madison Campbell
+course = IB
+Phone Number = 790-2345
+
+Student Id = 1306123
+Name = Alexander Robinson
+course = IB
+Phone Number = 432-3456
+
+Student Id = 1405456
+Name = Lily Carter
+course = CN
+Phone Number = 790-9012
+
+
+
+

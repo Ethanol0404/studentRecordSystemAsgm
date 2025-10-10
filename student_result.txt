@@ -1,0 +1,3317 @@
+*******************************************STUDENT 1****************************************************
+
+Name: Abigail Lewis
+Id: 1309123
+Course: CS
+Phone No: 790-1234
+Current CGPA: 3.33385
+Total Credits Earned: 52
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              F       0.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B-      2.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+-------------
+GPA: 2.12769
+
+
+
+Jan 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+May 2017 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B+      3.33000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B       3.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A       4.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A-      3.67000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.56250
+
+
+
+Oct 2018 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A-      3.67000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A+      4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A-      3.67000
+-------------
+GPA: 3.82231
+
+*******************************************STUDENT 1****************************************************
+
+
+
+*******************************************STUDENT 2****************************************************
+
+Name: Alexander Robinson
+Id: 1306123
+Course: IB
+Phone No: 432-3456
+Current CGPA: 3.69609
+Total Credits Earned: 92
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2012 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+
+
+Oct 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              B+      3.33000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.76923
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.83500
+
+
+
+Oct 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.93812
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2017 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.84769
+
+
+
+May 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2018 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              F       0.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A+      4.00000
+-------------
+GPA: 2.00000
+
+*******************************************STUDENT 2****************************************************
+
+
+
+*******************************************STUDENT 3****************************************************
+
+Name: Amelia Clark
+Id: 1307456
+Course: IR
+Phone No: 790-0123
+Current CGPA: 3.74308
+Total Credits Earned: 39
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+
+
+Jan 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              B+      3.33000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UBMM1011 	SUN_ZI'S_ART_OF_WAR_AND_BUSINESS_STRATEGIES                         1              A       4.00000
+-------------
+GPA: 3.81727
+
+
+
+Oct 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.93812
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 3****************************************************
+
+
+
+*******************************************STUDENT 4****************************************************
+
+Name: Andrew White
+Id: 1300123
+Course: CN
+Phone No: 432-0123
+Current CGPA: 3.84909
+Total Credits Earned: 33
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B-      2.67000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.44667
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 4****************************************************
+
+
+
+*******************************************STUDENT 5****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 6****************************************************
+
+Name: Audrey Perez
+Id: 1407123
+Course: IR
+Phone No: 790-0123
+Current CGPA: 4.00000
+Total Credits Earned: 139
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              A       4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A       4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A+      4.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              A       4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A+      4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A+      4.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  7              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        7              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A       4.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A+      4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A       4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A       4.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A+      4.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               5              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     4              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A       4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  7              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        6              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           9              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2018 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               7              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       7              A+      4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 6****************************************************
+
+
+
+*******************************************STUDENT 7****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 8****************************************************
+
+Name: Benjamin Rodriguez
+Id: 1308789
+Course: CT
+Phone No: 432-4567
+Current CGPA: 3.88803
+Total Credits Earned: 71
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B-      2.67000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.44667
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A       4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.90100
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2016 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              A       4.00000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A-      3.67000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.93400
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+-------------
+GPA: 3.92385
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 8****************************************************
+
+
+
+*******************************************STUDENT 9****************************************************
+
+Name: Caleb Adams
+Id: 1402456
+Course: IR
+Phone No: 432-1234
+Current CGPA: 3.67525
+Total Credits Earned: 40
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              C+      2.33000
+-------------
+GPA: 3.28429
+
+
+
+Jan 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B-      2.67000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.44667
+
+
+
+Oct 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2018 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.80000
+
+*******************************************STUDENT 9****************************************************
+
+
+
+*******************************************STUDENT 10****************************************************
+
+Name: Charles Cox
+Id: 1518123
+Course: CT
+Phone No: 432-4567
+Current CGPA: 3.91750
+Total Credits Earned: 48
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.83500
+
+
+
+Oct 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.93812
+
+
+
+May 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 10****************************************************
+
+
+
+*******************************************STUDENT 11****************************************************
+
+Name: Charlotte Martinez
+Id: 1305789
+Course: CN
+Phone No: 790-9012
+Current CGPA: 3.88390
+Total Credits Earned: 77
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2012 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              B       3.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+-------------
+GPA: 3.73789
+
+
+
+Jan 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A       4.00000
+-------------
+GPA: 3.92385
+
+
+
+Jan 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+Jan 2018 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.94789
+
+
+
+Oct 2018 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.93812
+
+*******************************************STUDENT 11****************************************************
+
+
+
+*******************************************STUDENT 12****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 13****************************************************
+
+Name: Chloe Green
+Id: 1401123
+Course: IB
+Phone No: 790-7890
+Current CGPA: 3.24077
+Total Credits Earned: 39
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              F       0.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.43769
+
+
+
+May 2015 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.43692
+
+
+
+Jan 2017 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.84769
+
+*******************************************STUDENT 13****************************************************
+
+
+
+*******************************************STUDENT 14****************************************************
+
+Name: Christian Bailey
+Id: 1514789
+Course: CS
+Phone No: 432-2345
+Current CGPA: 3.88933
+Total Credits Earned: 45
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A       4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.90100
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+-------------
+GPA: 3.75000
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2017 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+-------------
+GPA: 3.92385
+
+*******************************************STUDENT 14****************************************************
+
+
+
+*******************************************STUDENT 15****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 16****************************************************
+
+Name: Daniel Wilson
+Id: 1204123
+Course: CS
+Phone No: 432-7890
+Current CGPA: 3.80080
+Total Credits Earned: 25
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2013 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              A       4.00000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A-      3.67000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B-      2.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.72333
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 16****************************************************
+
+
+
+*******************************************STUDENT 17****************************************************
+
+Name: David Miller
+Id: 1202456
+Course: IR
+Phone No: 432-6789
+Current CGPA: 2.28269
+Total Credits Earned: 26
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              F       0.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B-      2.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+-------------
+GPA: 2.12769
+
+
+
+May 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              F       0.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.43769
+
+*******************************************STUDENT 17****************************************************
+
+
+
+*******************************************STUDENT 18****************************************************
+
+Name: Dylan Edwards
+Id: 1504456
+Course: CS
+Phone No: 432-7890
+Current CGPA: 3.68040
+Total Credits Earned: 75
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2012 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              C+      2.33000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+-------------
+GPA: 3.16500
+
+
+
+Oct 2012 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A-      3.67000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+-------------
+GPA: 3.73400
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.93812
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              F       0.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A+      4.00000
+-------------
+GPA: 2.00000
+
+
+
+Jan 2017 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.84769
+
+
+
+May 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 18****************************************************
+
+
+
+*******************************************STUDENT 19****************************************************
+
+Name: Elizabeth Hernandez
+Id: 1315123
+Course: CN
+Phone No: 790-4567
+Current CGPA: 3.82558
+Total Credits Earned: 86
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2013 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              A-      3.67000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              B+      3.33000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A       4.00000
+-------------
+GPA: 3.66667
+
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2013 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.66667
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.77667
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2016 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              A       4.00000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A-      3.67000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.93400
+
+*******************************************STUDENT 19****************************************************
+
+
+
+*******************************************STUDENT 20****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 21****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 22****************************************************
+
+Name: Evelyn Young
+Id: 1313456
+Course: CT
+Phone No: 790-3456
+Current CGPA: 3.67649
+Total Credits Earned: 37
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B-      2.67000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.44667
+
+
+
+Oct 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A+      4.00000
+-------------
+GPA: 3.90100
+
+
+
+Jan 2018 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.66667
+
+*******************************************STUDENT 22****************************************************
+
+
+
+*******************************************STUDENT 23****************************************************
+
+Name: Gabriel Stewart
+Id: 1506123
+Course: IB
+Phone No: 432-8901
+Current CGPA: 3.54280
+Total Credits Earned: 75
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2012 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              B       3.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+-------------
+GPA: 3.73789
+
+
+
+Jan 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              B+      3.33000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UBMM1011 	SUN_ZI'S_ART_OF_WAR_AND_BUSINESS_STRATEGIES                         1              A       4.00000
+-------------
+GPA: 3.81727
+
+
+
+May 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              F       0.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.43769
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+-------------
+GPA: 3.50000
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2018 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A       4.00000
+-------------
+GPA: 3.92385
+
+*******************************************STUDENT 23****************************************************
+
+
+
+*******************************************STUDENT 24****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 25****************************************************
+
+Name: Harper Walker
+Id: 1311789
+Course: IB
+Phone No: 790-2345
+Current CGPA: 4.00000
+Total Credits Earned: 19
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 25****************************************************
+
+
+
+*******************************************STUDENT 26****************************************************
+
+Name: Hazel Rivera
+Id: 1515123
+Course: CN
+Phone No: 790-9012
+Current CGPA: 3.54600
+Total Credits Earned: 55
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2012 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B+      3.33000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A-      3.67000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.60765
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCN1223 	CYBERSECURITY                                                       3              B       3.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.66750
+
+
+
+Jan 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A       4.00000
+-------------
+GPA: 3.92385
+
+
+
+May 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.97538
+
+*******************************************STUDENT 26****************************************************
+
+
+
+*******************************************STUDENT 27****************************************************
+
+Name: Isaac Cook
+Id: 1510456
+Course: CN
+Phone No: 432-0123
+Current CGPA: 3.75897
+Total Credits Earned: 58
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2012 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+
+
+Jan 2016 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.75062
+
+
+
+Jan 2017 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.93812
+
+
+
+May 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A+      4.00000
+-------------
+GPA: 3.90100
+
+*******************************************STUDENT 27****************************************************
+
+
+
+*******************************************STUDENT 28****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 29****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 30****************************************************
+
+Name: Jacob King
+Id: 1316456
+Course: IB
+Phone No: 432-8901
+Current CGPA: 3.73115
+Total Credits Earned: 78
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2012 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A       4.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B       3.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.80000
+
+
+
+May 2013 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+Oct 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.84769
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+-------------
+GPA: 3.44333
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.83500
+
+
+
+Oct 2015 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 3.92385
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+*******************************************STUDENT 30****************************************************
+
+
+
+*******************************************STUDENT 31****************************************************
+
+Name: James Hall
+Id: 1312123
+Course: IR
+Phone No: 432-6789
+Current CGPA: 3.61324
+Total Credits Earned: 37
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 3.90100
+
+
+
+May 2015 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.97538
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 31****************************************************
+
+
+
+*******************************************STUDENT 32****************************************************
+
+Name: Jessica Davis
+Id: 1203789
+Course: CT
+Phone No: 790-3456
+Current CGPA: 3.56310
+Total Credits Earned: 29
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2012 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B+      3.33000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A-      3.67000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.60765
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+-------------
+GPA: 3.50000
+
+*******************************************STUDENT 32****************************************************
+
+
+
+*******************************************STUDENT 33****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 34****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 35****************************************************
+
+Name: Leah Sanchez
+Id: 1507456
+Course: IR
+Phone No: 790-5678
+Current CGPA: 3.86364
+Total Credits Earned: 66
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 3.77667
+
+
+
+May 2015 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+-------------
+GPA: 3.92385
+
+
+
+Oct 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2018 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.66667
+
+*******************************************STUDENT 35****************************************************
+
+
+
+*******************************************STUDENT 36****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 37****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 38****************************************************
+
+Name: Logan Allen
+Id: 1314789
+Course: CS
+Phone No: 432-7890
+Current CGPA: 3.86167
+Total Credits Earned: 36
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A       4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A-      3.67000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.76529
+
+
+
+Jan 2017 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.94789
+
+*******************************************STUDENT 38****************************************************
+
+
+
+*******************************************STUDENT 39****************************************************
+
+Name: Luke Roberts
+Id: 1408456
+Course: CT
+Phone No: 432-4567
+Current CGPA: 3.90100
+Total Credits Earned: 10
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.90100
+
+*******************************************STUDENT 39****************************************************
+
+
+
+*******************************************STUDENT 40****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 41****************************************************
+
+Name: Matthew Anderson
+Id: 1206789
+Course: IB
+Phone No: 432-8901
+Current CGPA: 3.78412
+Total Credits Earned: 51
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2015 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              C+      2.33000
+-------------
+GPA: 3.28429
+
+
+
+Oct 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2018 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.66667
+
+*******************************************STUDENT 41****************************************************
+
+
+
+*******************************************STUDENT 42****************************************************
+
+Name: Mia Thompson
+Id: 1303123
+Course: CT
+Phone No: 790-8901
+Current CGPA: 3.83400
+Total Credits Earned: 30
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A       4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A-      3.67000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.76529
+
+
+
+Oct 2018 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A       4.00000
+-------------
+GPA: 3.92385
+
+*******************************************STUDENT 42****************************************************
+
+
+
+*******************************************STUDENT 43****************************************************
+
+Name: Michael Brown
+Id: 1200789
+Course: CN
+Phone No: 432-5678
+Current CGPA: 3.90425
+Total Credits Earned: 73
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2012 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A       4.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B       3.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.80000
+
+
+
+Jan 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              B+      3.33000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UBMM1011 	SUN_ZI'S_ART_OF_WAR_AND_BUSINESS_STRATEGIES                         1              A       4.00000
+-------------
+GPA: 3.81727
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A-      3.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.93812
+
+
+
+Jan 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.91750
+
+
+
+May 2017 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 43****************************************************
+
+
+
+*******************************************STUDENT 44****************************************************
+
+Name: Nora Collins
+Id: 1500789
+Course: CN
+Phone No: 790-4567
+Current CGPA: 3.71133
+Total Credits Earned: 45
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2013 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              A       4.00000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A-      3.67000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B-      2.67000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.72333
+
+
+
+Oct 2013 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.66667
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 3.77667
+
+*******************************************STUDENT 44****************************************************
+
+
+
+*******************************************STUDENT 45****************************************************
+
+Name: Olivia Taylor
+Id: 1205456
+Course: CN
+Phone No: 790-4567
+Current CGPA: 3.86167
+Total Credits Earned: 108
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B-      2.67000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.44667
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A       4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A+      4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A-      3.67000
+-------------
+GPA: 3.90100
+
+
+
+Jan 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A+      4.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A-      3.67000
+-------------
+GPA: 3.89000
+
+
+
+May 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2016 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              A       4.00000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A-      3.67000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.93400
+
+
+
+Jan 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2017 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A       4.00000
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+-------------
+GPA: 3.92385
+
+
+
+Jan 2018 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1353 	BASIC_ALGEBRA                                                       3              B+      3.33000
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+MPU32143 	ENGLISH_FOR_INFORMATION_TECHNOLOGY                                  3              B       3.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.66667
+
+
+
+Oct 2018 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 45****************************************************
+
+
+
+*******************************************STUDENT 46****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 47****************************************************
+
+Name: Ryan Lopez
+Id: 1318123
+Course: CT
+Phone No: 432-9012
+Current CGPA: 3.87587
+Total Credits Earned: 80
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2012 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              B       3.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+-------------
+GPA: 3.73789
+
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 3.90100
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A-      3.67000
+-------------
+GPA: 3.83500
+
+
+
+Oct 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A-      3.67000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.92385
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Jan 2018 Exam Results: 
+
+6 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.94789
+
+*******************************************STUDENT 47****************************************************
+
+
+
+*******************************************STUDENT 48****************************************************
+
+Name: Samuel Nelson
+Id: 1404123
+Course: CS
+Phone No: 432-2345
+Current CGPA: 3.96906
+Total Credits Earned: 32
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCM1363 	DISCRETE_MATHEMATICS                                                3              A       4.00000
+UCCC2063 	ALGORITHMS_ANALYSIS                                                 3              A+      4.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A-      3.67000
+-------------
+GPA: 3.89000
+
+
+
+May 2015 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+Oct 2015 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A+      4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 48****************************************************
+
+
+
+*******************************************STUDENT 49****************************************************
+
+Name: Sarah Williams
+Id: 1201123
+Course: IB
+Phone No: 790-2345
+Current CGPA: 3.20500
+Total Credits Earned: 34
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+
+
+May 2016 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+
+
+Jan 2017 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.93812
+
+
+
+May 2018 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              F       0.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A+      4.00000
+-------------
+GPA: 2.00000
+
+*******************************************STUDENT 49****************************************************
+
+
+
+*******************************************STUDENT 50****************************************************
+
+Name: Savannah Reed
+Id: 1509123
+Course: CS
+Phone No: 790-6789
+Current CGPA: 3.02577
+Total Credits Earned: 26
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              F       0.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B-      2.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+-------------
+GPA: 2.12769
+
+
+
+Oct 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCN2243 	INTERNETWORKING_PRINCIPLES_AND_PRACTICES                            3              A-      3.67000
+UCCD2502 	INTRODUCTION_TO_INVENTIVE_PROBLEM_SOLVING_AND_PROPOSAL_WRITING      3              A       4.00000
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A+      4.00000
+-------------
+GPA: 3.92385
+
+*******************************************STUDENT 50****************************************************
+
+
+
+*******************************************STUDENT 51****************************************************
+
+Name: Scarlett Turner
+Id: 1409789
+Course: CS
+Phone No: 790-1234
+Current CGPA: 3.80067
+Total Credits Earned: 45
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2014 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1004 	PROGRAMMING_CONCEPTS_AND_PRACTICES                                  4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+-------------
+GPA: 3.90100
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCN1223 	CYBERSECURITY                                                       3              B       3.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A-      3.67000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.66750
+
+
+
+Jan 2015 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A       4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              A-      3.67000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A       4.00000
+-------------
+GPA: 3.76529
+
+
+
+May 2015 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A+      4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 51****************************************************
+
+
+
+*******************************************STUDENT 52****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 53****************************************************
+
+Name: Victoria Wright
+Id: 1317789
+Course: IR
+Phone No: 790-5678
+Current CGPA: 3.69830
+Total Credits Earned: 53
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Oct 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              B+      3.33000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.76923
+
+
+
+May 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B       3.00000
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              A       4.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              B+      3.33000
+-------------
+GPA: 3.16500
+
+
+
+Oct 2014 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.83500
+
+
+
+Jan 2017 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A+      4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A       4.00000
+UCCD2103 	OPERATING_SYSTEMS                                                   3              A+      4.00000
+-------------
+GPA: 3.93812
+
+*******************************************STUDENT 53****************************************************
+
+
+
+*******************************************STUDENT 54****************************************************
+
+Name: Violet Richardson
+Id: 1517789
+Course: IR
+Phone No: 790-0123
+Current CGPA: 3.08882
+Total Credits Earned: 68
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              F       0.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              B-      2.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B+      3.33000
+-------------
+GPA: 2.12769
+
+
+
+Jan 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.84769
+
+
+
+May 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.97538
+
+
+
+Oct 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B-      2.67000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A-      3.67000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              B       3.00000
+-------------
+GPA: 2.97538
+
+
+
+May 2017 Exam Results: 
+
+5 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1133 	INTRODUCTION_TO_COMPUTER_ORGANISATION_AND_ARCHITECTURE              3              B       3.00000
+UCCN1004 	DATA_COMMUNICATIONS_AND_NETWORKING                                  4              A       4.00000
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCM1153 	INTRODUCTION_TO_CALCULUS_AND_APPLICATIONS                           3              A-      3.67000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              A+      4.00000
+-------------
+GPA: 3.43750
+
+*******************************************STUDENT 54****************************************************
+
+
+
+*******************************************STUDENT 55****************************************************THIS STUDENT HAVENT'T TAKEN ANY EXAM YET. 
+*******************************************STUDENT 56****************************************************
+
+Name: Wyatt Bell
+Id: 1512123
+Course: IR
+Phone No: 432-1234
+Current CGPA: 4.00000
+Total Credits Earned: 14
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+
+
+May 2015 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 4.00000
+
+*******************************************STUDENT 56****************************************************
+
+
+
+*******************************************STUDENT 57****************************************************
+
+Name: Zoe Evans
+Id: 1503123
+Course: CT
+Phone No: 790-3456
+Current CGPA: 3.28429
+Total Credits Earned: 14
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              C+      2.33000
+-------------
+GPA: 3.28429
+
+
+
+May 2017 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2044 	OBJECT-ORIENTED_PROGRAMMING_PRACTICES                               4              A+      4.00000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              C+      2.33000
+-------------
+GPA: 3.28429
+
+*******************************************STUDENT 57****************************************************
+
+
+
+*******************************************STUDENT 58****************************************************
+
+Name: Zoey Baker
+Id: 1403789
+Course: CT
+Phone No: 790-8901
+Current CGPA: 3.60338
+Total Credits Earned: 68
+
+
+--------------------------------------------------PAST EXAM RESULT--------------------------------------------------
+
+
+Jan 2012 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+-------------
+GPA: 3.90100
+
+
+
+May 2013 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1143 	PROBABILITY_AND_STATISTICS_FOR_COMPUTING                            3              C+      2.33000
+UCCD2003 	OBJECT-ORIENTED_SYSTEMS_ANALYSIS_AND_DESIGN                         3              B+      3.33000
+-------------
+GPA: 2.83000
+
+
+
+Oct 2013 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1024 	DATA_STRUCTURE_AND_ALGORITHMIC_PROBLEM_SOLVING                      4              A       4.00000
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              B+      3.33000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.76923
+
+
+
+Oct 2015 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2323 	FRONT-END_WEB_DEVELOPMENT                                           3              A-      3.67000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A       4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.83500
+
+
+
+Jan 2016 Exam Results: 
+
+4 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+UCCD2303 	DATABASE_TECHNOLOGY                                                 3              A       4.00000
+-------------
+GPA: 3.91750
+
+
+
+Jan 2018 Exam Results: 
+
+3 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD1203 	DATABASE_DEVELOPMENT_AND_APPLICATIONS                               3              A       4.00000
+UCCD2213 	SOFTWARE_ENGINEERING_PRINCIPLES                                     3              A+      4.00000
+UCCN1223 	CYBERSECURITY                                                       3              A-      3.67000
+-------------
+GPA: 3.89000
+
+
+
+May 2018 Exam Results: 
+
+2 subjects taken.
+________________________________________________________________________________________________________________________
+Subject Code	Subject Name                                                        Credit Hours   Grade   Grade Point
+________________________________________________________________________________________________________________________
+UCCD2063 	ARTIFICIAL_INTELLIGENCE_TECHNIQUES                                  3              F       0.00000
+UCCD2083 	CLOUD_COMPUTING_AND_SERVICES                                        3              A+      4.00000
+-------------
+GPA: 2.00000
+
+*******************************************STUDENT 58****************************************************
+
+
+
