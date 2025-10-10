@@ -1,0 +1,239 @@
+Student Id = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+Phone Number = 790-3233
+Course = CS
+CGPA = 3.12076
+
+Student Id = 22
+Name = Ben Affleck
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+Phone Number = 432-4579
+Course = IB
+CGPA = 3.12076
+
+Student Id = 23
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+Phone Number = 790-0000
+Course = CS
+CGPA = 3.12076
+
+Student Id = 19
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+Phone Number = 345-6780
+Course = CS
+CGPA = 3.12076
+
+Student Id = 21
+Name = Zoe Tay
+Address = 100 Blue Eyed St, Malaysia 456872
+DOB = 15-02-1968
+Phone Number = 456-1234
+Course = CS
+CGPA = 3.12076
+
+Student Id = 125
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+Phone Number = 456-4321
+Course = IB
+CGPA = 3.23678
+
+Student Id = 34
+Name = Leonardo DiCaprio
+Address = 12 Sunset Drive, Malaysia 561223
+DOB = 11-11-1974
+Phone Number = 678-4321
+Course = CN
+CGPA = 3.52345
+
+Student Id = 65
+Name = Johnny Depp
+Address = 89 Pirates Avenue, Malaysia 534211
+DOB = 09-06-1963
+Phone Number = 543-0987
+Course = IR
+CGPA = 3.34212
+
+Student Id = 78
+Name = Natalie Portman
+Address = 23 Black Swan Road, Malaysia 876432
+DOB = 09-06-1981
+Phone Number = 765-1234
+Course = IA
+CGPA = 3.76534
+
+Student Id = 101
+Name = Will Smith
+Address = 77 Bel Air St, Malaysia 673211
+DOB = 25-09-1968
+Phone Number = 432-9876
+Course = CS
+CGPA = 3.62312
+
+Student Id = 143
+Name = Emma Watson
+Address = 56 Hogwarts Lane, Malaysia 776432
+DOB = 15-04-1990
+Phone Number = 654-4321
+Course = IB
+CGPA = 3.85761
+
+Student Id = 157
+Name = Hugh Jackman
+Address = 88 Wolverine Street, Malaysia 654321
+DOB = 12-10-1968
+Phone Number = 876-1234
+Course = IA
+CGPA = 3.43218
+
+Student Id = 54
+Name = Anne Hathaway
+Address = 200 Princess Avenue, Malaysia 543212
+DOB = 12-11-1982
+Phone Number = 543-8765
+Course = IR
+CGPA = 3.22347
+
+Student Id = 90
+Name = Morgan Freeman
+Address = 90 Shawshank Street, Malaysia 562134
+DOB = 01-06-1937
+Phone Number = 345-9988
+Course = CN
+CGPA = 3.78900
+
+Student Id = 116
+Name = Denzel Washington
+Address = 15 Training Day Road, Malaysia 654322
+DOB = 28-12-1954
+Phone Number = 765-5432
+Course = IR
+CGPA = 3.61234
+
+Student Id = 11
+Name = Scarlett Johansson
+Address = 100 Avengers Lane, Malaysia 654987
+DOB = 22-11-1984
+Phone Number = 678-8765
+Course = CN
+CGPA = 3.91234
+
+Student Id = 153
+Name = Robert Downey Jr
+Address = 45 Iron Man Drive, Malaysia 578432
+DOB = 04-04-1965
+Phone Number = 876-2345
+Course = IA
+CGPA = 3.87432
+
+Student Id = 67
+Name = Chris Evans
+Address = 88 Captain America Street, Malaysia 598432
+DOB = 13-06-1981
+Phone Number = 567-4321
+Course = CS
+CGPA = 3.71123
+
+Student Id = 82
+Name = Ryan Reynolds
+Address = 45 Deadpool Lane, Malaysia 563321
+DOB = 23-10-1976
+Phone Number = 765-9876
+Course = IB
+CGPA = 3.62342
+
+Student Id = 45
+Name = Angelina Jolie
+Address = 100 Tomb Raider Road, Malaysia 654321
+DOB = 04-06-1975
+Phone Number = 456-6543
+Course = CN
+CGPA = 3.54321
+
+Student Id = 144
+Name = Brad Pitt
+Address = 77 Fight Club St, Malaysia 654321
+DOB = 18-12-1963
+Phone Number = 654-3210
+Course = CS
+CGPA = 3.42134
+
+Student Id = 39
+Name = Keanu Reeves
+Address = 33 Matrix Avenue, Malaysia 543211
+DOB = 02-09-1964
+Phone Number = 432-6543
+Course = IR
+CGPA = 3.71234
+
+Student Id = 87
+Name = Tom Hanks
+Address = 100 Forrest Gump Blvd, Malaysia 598432
+DOB = 09-07-1956
+Phone Number = 123-7890
+Course = IA
+CGPA = 3.67890
+
+Student Id = 18
+Name = Gal Gadot
+Address = 200 Wonder Woman Lane, Malaysia 567891
+DOB = 30-04-1985
+Phone Number = 234-5678
+Course = CN
+CGPA = 3.89999
+
+Student Id = 72
+Name = Jason Momoa
+Address = 123 Aquaman Drive, Malaysia 564321
+DOB = 01-08-1979
+Phone Number = 876-5678
+Course = IR
+CGPA = 3.32123
+
+Student Id = 99
+Name = Margot Robbie
+Address = 56 Harley Street, Malaysia 555432
+DOB = 02-07-1990
+Phone Number = 654-7890
+Course = IB
+CGPA = 3.92123
+
+Student Id = 137
+Name = Christian Bale
+Address = 44 Batman Street, Malaysia 543212
+DOB = 30-01-1974
+Phone Number = 432-8765
+Course = IA
+CGPA = 3.81234
+
+Student Id = 60
+Name = Daniel Craig
+Address = 77 Bond Avenue, Malaysia 578432
+DOB = 02-03-1968
+Phone Number = 321-6547
+Course = CS
+CGPA = 3.52122
+
+Student Id = 118
+Name = Jennifer Lawrence
+Address = 45 Hunger Games St, Malaysia 534321
+DOB = 15-08-1990
+Phone Number = 789-1234
+Course = CN
+CGPA = 3.73321
+
+Student Id = 40
+Name = Chris Hemsworth
+Address = 123 Asgard Road, Malaysia 543219
+DOB = 11-08-1983
+Phone Number = 654-3212
+Course = IR
+CGPA = 3.62345
